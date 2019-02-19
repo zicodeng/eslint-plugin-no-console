@@ -19,5 +19,8 @@
   },
   "peerDependencies": {
     "eslint": "^5.14.0"
+  },
+  "dependencies": {
+    "object-looks-like": "^1.0.0"
   }
 }
