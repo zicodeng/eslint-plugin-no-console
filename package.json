@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-no-console",
+  "version": "1.0.0",
+  "description": "Disallow any console statement.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "author": "Zico Deng",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "mocha": "^5.2.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.14.0"
+  }
+}
